@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../src/router/api/index.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,+CAA6B","sourcesContent":["export * from './api.router';\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/midlleware/index.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,2CAAyB;AACzB,yCAAuB","sourcesContent":["export * from './access';\nexport * from './user';\n"]}

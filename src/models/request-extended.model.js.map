@@ -1,0 +1,1 @@
+{"version":3,"file":"request-extended.model.js","sourceRoot":"","sources":["../../src/models/request-extended.model.ts"],"names":[],"mappings":"","sourcesContent":["import { Request } from 'express-serve-static-core';\n\nexport interface IRequestExtended extends Request {\n    user?: any;\n}\n"]}

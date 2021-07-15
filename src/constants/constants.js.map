@@ -1,0 +1,1 @@
+{"version":3,"file":"users-types.enum.js","sourceRoot":"","sources":["../../src/constants/users-types.enum.ts"],"names":[],"mappings":";;;AAAA,IAAY,cAKX;AALD,WAAY,cAAc;IACvB,yDAAW,CAAA;IACV,yDAAO,CAAA;IACR,2DAAQ,CAAA;AAEX,CAAC,EALW,cAAc,GAAd,sBAAc,KAAd,sBAAc,QAKzB","sourcesContent":["export enum UsersTypesEnum {\n   STUDENT = 1,\n    TEACHER,\n   ASPIRANT\n\n}\n"]}

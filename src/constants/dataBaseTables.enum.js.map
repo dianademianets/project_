@@ -1,0 +1,1 @@
+{"version":3,"file":"users-roles.enum.js","sourceRoot":"","sources":["../../src/constants/users-roles.enum.ts"],"names":[],"mappings":";;;AAAA,IAAY,cAIX;AAJD,WAAY,cAAc;IACtB,mDAAQ,CAAA;IACR,qDAAK,CAAA;IACL,+DAAU,CAAA;AACd,CAAC,EAJW,cAAc,GAAd,sBAAc,KAAd,sBAAc,QAIzB","sourcesContent":["export enum UsersRolesEnum {\n    USER = 1,\n    ADMIN,\n    SUPERADMIN\n}\n"]}

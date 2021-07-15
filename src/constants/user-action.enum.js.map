@@ -1,0 +1,1 @@
+{"version":3,"file":"user-action.enum.js","sourceRoot":"","sources":["../../src/constants/user-action.enum.ts"],"names":[],"mappings":";;;AAAA,IAAY,cAEX;AAFD,WAAY,cAAc;IACtB,mDAAQ,CAAA;AACZ,CAAC,EAFW,cAAc,GAAd,sBAAc,KAAd,sBAAc,QAEzB","sourcesContent":["export enum UserActionEnum {\n    AUTH = 1\n}\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"file":"regExp.enum.js","sourceRoot":"","sources":["../../src/constants/regExp.enum.ts"],"names":[],"mappings":";;;AAAa,QAAA,UAAU,GAAG;IACtB,KAAK,EAAE,IAAI,MAAM,CAAC,mBAAmB,CAAC;CACzC,CAAC","sourcesContent":["export const RegExpEnum = {\n    phone: new RegExp('^[+]*[0-9]{5,20}$')\n};\n"]}
